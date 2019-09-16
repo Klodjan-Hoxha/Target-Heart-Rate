@@ -35,7 +35,7 @@ public class HeartTest {
 		System.out.println("Your detailed information:");
 		System.out.printf("%s, %s%n"
 				+ "Birthday: %d,%d,%d%nYou are %d years old%n"
-				+ "Your maximum heart rate is %d BPM%n"
+				+ "Your maximum heart rate is %d BPM.%n"
 				+ "Your target heart rate is between %d and %d BPM.",hr.getFirstName(),
 				hr.getLastName(), hr.getMonth(), hr.getDay(), hr.getYear(), hr.calculateAge(year),
 				maxHR, hr.minTargetHR(maxHR), hr.maxTargetHR(maxHR));
