@@ -6,4 +6,4 @@
 
 ## Image
 
-![Image of App](https://github.com/Klodjan-Hoxha/Target-Heart/master/screen-shot-java.png){:height="50%" width="50%"}
+![Image of App](/screen-shot-java.png)
